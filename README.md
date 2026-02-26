@@ -6,14 +6,22 @@
 
 <p align="center">
 I'm a 3rd-year Information Security student at Ho Chi Minh City University of Industry and Trade (HUIT). <br/>
-I enjoy building homelabs, deploying systems, and improving my skills in infrastructure, troubleshooting, and security.
+Passionate about system administration and cybersecurity, aiming to build secure and reliable infrastructure that benefits organizations and the community.
 </p>
 
----
+
 ## 🛠 Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,cs,python,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,cs,python,github,dotnet" />
 </p>
+
+- Linux (Kali/Parrot), Windows
+- VMware Workstation
+- C#, Python
+- SQL Server, Oracle
+- TCP/IP, DNS, DHCP, Troubleshooting
+- Backup & Recovery, Malware Analysis, Ransomware Lab
+
 ---
 
 ## 🔬 Projects
@@ -29,7 +37,7 @@ I enjoy building homelabs, deploying systems, and improving my skills in infrast
 - Managed authentication & messages with Oracle Database
 - Applied AES-256 encryption for data protection
 
-### More project coming soon...
+### More projects are being developed...
 
 ---
 
