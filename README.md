@@ -1,7 +1,7 @@
 <h1 align="center">Lê Nguyễn Hồng Phúc</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Information+Security+Student;An+to%C3%A0n+th%C3%B4ng+tin" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Information+Security;An+to%C3%A0n+th%C3%B4ng+tin" />
 </p>
 
 <p align="center">
