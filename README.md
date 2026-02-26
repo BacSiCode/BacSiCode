@@ -1,35 +1,28 @@
-<h1 align="center">Hi , I'm Lê Nguyễn Hồng Phúc</h1>
-
+<h1 align="center">Lê Nguyễn Hồng Phúc</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=System+Administrator+Intern;Linux+%7C+Network+%7C+Security;Homelab+Builder;Always+Learning+Always+Automating" />
+System Administrator Intern | Infrastructure | Security Lab
 </p>
 
 ---
 
-## 🚀 About Me
-💻 Sinh viên An toàn thông tin – định hướng **System Administrator / Infrastructure / Security**  
-🔧 Đam mê xây dựng homelab, ảo hóa, automation và mô phỏng attack–defense  
+## 🔬 Projects
 
----
+### 🦠 Ransomware Simulation Lab (GandCrab)
+- Built isolated lab using VMware + Kali Linux
+- Analyzed AES/RSA encryption workflow
+- Wrote Python demo to simulate file encryption/decryption
+- Practiced backup & system recovery
 
-## 🛠 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,bash,python,mysql,git,docker" />
-</p>
+### 💬 Internal Chat System (C# WinForms + Oracle)
+- Developed internal chat application (client–server model)
+- Managed users & messages with Oracle Database
+- Implemented data encryption (AES-256)
 
-- Linux (Parot,Kali)
-- Windows / VMware
-- TCP/IP, DNS, DHCP, Troubleshooting
-- Bash, Python automation
-- Backup & Restore, Malware Lab
-
----
-
-## 🔬 Homelab & Projects
-🦠 Ransomware simulation lab (GandCrab)  
-🖥 VMware infrastructure (5+ VMs, internal network)  
-⚙️ Sysadmin automation scripts  
-💬 Internal chat system (C# + Oracle)
+### 🖥 IT Support Experience
+- Windows installation, drivers, software setup
+- Hardware replacement (RAM, SSD, battery, keyboard)
+- OS troubleshooting & virus removal
+- Direct end-user support
 
 ---
 
@@ -41,13 +34,26 @@
 
 ---
 
-## 🧠 Learning Focus 2025
-- Bash/PowerShell scripting nâng cao
-- Docker & DevOps cơ bản
-- Monitoring (Grafana/Zabbix)
-- Cloud fundamentals
+## 📫 Contact
+Email: lenguyenhongphuc999@gmail.com  
+Location: Ho Chi Minh City, Vietnam
 
 ---
 
-## 📫 Contact
-📧 lenguyenhongphuc999@gmail.com
+## 🎯 Career Goal
+Aspiring System Administrator focused on:
+- System deployment & maintenance
+- Virtualization & infrastructure setup
+- Troubleshooting & automation
+- Security testing and defense lab
+
+---
+
+## 🛠 Skills
+- OS: Linux (Kali, Parrot), Windows
+- Virtualization: VMware Workstation
+- Networking: TCP/IP, DNS, DHCP, OSI, troubleshooting
+- Programming: C#, Python (basic automation)
+- Database: SQL Server, Oracle
+- Tools: Git, GitHub
+- Security: backup/restore, ransomware lab analysis
