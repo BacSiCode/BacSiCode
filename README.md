@@ -59,18 +59,10 @@ location : Tân Bình, Hồ Chí Minh, Việt Nam
 
 ### `> mission.log`
 
-<br/>
-
-> *"Security isn't a product.*
-> *It's a process — and I'm here*
-> *to learn every layer of it."*
-
-<br/>
-
 🔭 **Currently** — Deepening SOC & threat analysis skills  
 🧪 **Lab work** — Ransomware behavior, IDS/IPS, AD attacks  
 📖 **Learning** — SIEM, log correlation, threat hunting basics  
-🎯 **Target** — Blue Team / SOC Analyst internship
+🎯 **Target** — SOC Analyst internship
 
 </td>
 </tr>
@@ -82,14 +74,14 @@ location : Tân Bình, Hồ Chí Minh, Việt Nam
 
 <div align="center">
 
-| Domain | Tools & Concepts | Level |
+| Domain | Tools & Concepts | 
 |---|---|---|
-| 🛡️ **Network Security** | OSI/TCP-IP, IDS/IPS, Snort, LAN/WLAN | `██████████░` Intermediate |
-| 🦠 **Malware Analysis** | Static/Dynamic, Ransomware Behavior, Lab Isolation | `███████░░░░` Learning |
-| 🔐 **Cryptography** | AES-256, RSA, Key Management, Secure Messaging | `████████░░░` Intermediate |
-| 🐧 **Linux/Security OS** | Kali, Parrot, Fedora, Bash, CLI forensics | `█████████░░` Comfortable |
-| 🖥️ **Windows Infra** | Active Directory, Windows Server, AD attacks | `███████░░░░` Learning |
-| 🧪 **Lab & Virtualization** | VMware Workstation, Isolated Environments | `█████████░░` Comfortable |
+| 🛡️ **Network Security** | OSI/TCP-IP, IDS/IPS, Snort, LAN/WLAN | 
+| 🦠 **Malware Analysis** | Static/Dynamic, Ransomware Behavior, Lab Isolation |
+| 🔐 **Cryptography** | AES-256, RSA, Key Management, Secure Messaging |
+| 🐧 **Linux/Security OS** | Kali, Parrot, Fedora, Bash, CLI forensics | 
+| 🖥️ **Windows Infra** | Active Directory, Windows Server, AD attacks | 
+| 🧪 **Lab & Virtualization** | VMware Workstation, Isolated Environments | 
 
 </div>
 
@@ -136,81 +128,6 @@ location : Tân Bình, Hồ Chí Minh, Việt Nam
 </div>
 
 ---
-
-## `> spotlight_projects/`
-
-<div align="center">
-
-<!-- PROJECT 1 -->
-<a href="https://github.com/BacSiCode/BMMT_GandCrab_v1">
-<table width="90%">
-<tr>
-<td>
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  🦠  GANDCRAB RANSOMWARE ANALYSIS LAB             [TEAM LEAD]   │
-│      02/2025 – 04/2025                                          │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  Studied RaaS (Ransomware-as-a-Service) architecture and        │
-│  phishing-based infection vectors of GandCrab variants.         │
-│                                                                 │
-│  Built isolated lab (VMware + Kali Linux) to simulate and       │
-│  observe AES/RSA encryption behavior in a controlled env.       │
-│                                                                 │
-│  Proposed Backup & Restore recovery strategies as defense.      │
-│                                                                 │
-│  OUTCOME: Full attack-defense cycle documented & understood.    │
-│                                                                 │
-├─────────────────────────────────────────────────────────────────┤
-│  Stack: VMware · Kali Linux · Python · AES · RSA · Snort        │
-│  Tags:  #malware-analysis #ransomware #lab #blue-team           │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-</a>
-
-<br/>
-
-<!-- PROJECT 2 -->
-<a href="https://github.com/BacSiCode/BMCSDL_ChatNoiBo">
-<table width="90%">
-<tr>
-<td>
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  💬  SECURE INTERNAL CHAT SYSTEM                  [TEAM LEAD]   │
-│      09/2025 – 12/2025                                          │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  Built internal enterprise chat app (C# WinForms) with          │
-│  Oracle Database for department-level access control.           │
-│                                                                 │
-│  Implemented AES-256 end-to-end encryption for all             │
-│  messages and user credentials in transit and at rest.          │
-│                                                                 │
-│  OUTCOME: Stable system, data isolated per department.          │
-│                                                                 │
-├─────────────────────────────────────────────────────────────────┤
-│  Stack: C# · WinForms · Oracle DB · AES-256 · .NET             │
-│  Tags:  #cryptography #secure-messaging #enterprise             │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-</a>
-
-</div>
-
----
-
 ## `> github_stats --live`
 
 <div align="center">
@@ -225,20 +142,6 @@ location : Tân Bình, Hồ Chí Minh, Việt Nam
 
 </div>
 
----
-
-## `> experience.log`
-
-```
-[2024-2025] IT Support Technician @ Laptop Bảo An
-─────────────────────────────────────────────────
-  ✓ Diagnosed and repaired hardware faults (RAM, SSD, display)
-    and system-level software failures across client devices
-  ✓ Deployed OS (Windows) + drivers + productivity software
-    on 100+ laptops and PCs
-  ✓ Advised clients on cost-effective hardware upgrade paths
-  ✓ Maintained basic IT asset inventory tracking
-```
 
 ---
 
@@ -257,39 +160,6 @@ location : Tân Bình, Hồ Chí Minh, Việt Nam
 
 ---
 
-## `> currently_loading...`
-
-<div align="center">
-
-```
-[▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  SOC Fundamentals & Log Analysis
-[▓▓▓▓▓▓▓░░░░░░░░░░░░░]  SIEM & Threat Detection Workflows
-[▓▓▓▓▓▓▓▓▓░░░░░░░░░░░]  Malware Reverse Engineering Basics
-[▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░]  Active Directory Attack & Defense
-[▓▓▓▓▓▓░░░░░░░░░░░░░░]  CTF Challenges & Write-ups
-```
-
-</div>
-
----
-
-## `> philosophy.txt`
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   "You cannot defend what you don't understand.      ║
-║    So first — understand everything."                ║
-║                                                      ║
-║   → Study the attack. Build the defense.             ║
-║   → Document everything. Leave no blind spot.        ║
-║   → Security is built in layers — so am I.           ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
 </div>
 
 ---
@@ -301,7 +171,7 @@ location : Tân Bình, Hồ Chí Minh, Việt Nam
 <br/>
 
 **Open to internship opportunities in:**
-`SOC Analysis` · `Blue Team Operations` · `Security Monitoring` · `Malware Analysis`
+`SOC Analysis`  · `Security Monitoring` · `Malware Analysis`
 
 <br/>
 
