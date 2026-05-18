@@ -62,7 +62,7 @@ location : Tân Bình, Hồ Chí Minh, Việt Nam
 🔭 **Currently** — Deepening SOC & threat analysis skills  
 🧪 **Lab work** — Ransomware behavior, IDS/IPS, AD attacks  
 📖 **Learning** — SIEM, log correlation, threat hunting basics  
-🎯 **Target** — SOC Analyst internship
+🎯 **Target** —  SOC Analyst internship
 
 </td>
 </tr>
@@ -74,14 +74,14 @@ location : Tân Bình, Hồ Chí Minh, Việt Nam
 
 <div align="center">
 
-| Domain | Tools & Concepts | 
+| Domain | Tools & Concepts | Level |
 |---|---|---|
-| 🛡️ **Network Security** | OSI/TCP-IP, IDS/IPS, Snort, LAN/WLAN | 
-| 🦠 **Malware Analysis** | Static/Dynamic, Ransomware Behavior, Lab Isolation |
-| 🔐 **Cryptography** | AES-256, RSA, Key Management, Secure Messaging |
-| 🐧 **Linux/Security OS** | Kali, Parrot, Fedora, Bash, CLI forensics | 
-| 🖥️ **Windows Infra** | Active Directory, Windows Server, AD attacks | 
-| 🧪 **Lab & Virtualization** | VMware Workstation, Isolated Environments | 
+| 🛡️ **Network Security** | OSI/TCP-IP, IDS/IPS, Snort, LAN/WLAN | `██████████░` Intermediate |
+| 🦠 **Malware Analysis** | Static/Dynamic, Ransomware Behavior, Lab Isolation | `███████░░░░` Learning |
+| 🔐 **Cryptography** | AES-256, RSA, Key Management, Secure Messaging | `████████░░░` Intermediate |
+| 🐧 **Linux/Security OS** | Kali, Parrot, Fedora, Bash, CLI forensics | `█████████░░` Comfortable |
+| 🖥️ **Windows Infra** | Active Directory, Windows Server, AD attacks | `███████░░░░` Learning |
+| 🧪 **Lab & Virtualization** | VMware Workstation, Isolated Environments | `█████████░░` Comfortable |
 
 </div>
 
@@ -128,6 +128,81 @@ location : Tân Bình, Hồ Chí Minh, Việt Nam
 </div>
 
 ---
+
+## `> spotlight_projects/`
+
+<div align="center">
+
+<!-- PROJECT 1 -->
+<a href="https://github.com/BacSiCode/BMMT_GandCrab_v1">
+<table width="90%">
+<tr>
+<td>
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🦠  GANDCRAB RANSOMWARE ANALYSIS LAB             [TEAM LEAD]   │
+│      02/2025 – 04/2025                                          │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  Studied RaaS (Ransomware-as-a-Service) architecture and        │
+│  phishing-based infection vectors of GandCrab variants.         │
+│                                                                 │
+│  Built isolated lab (VMware + Kali Linux) to simulate and       │
+│  observe AES/RSA encryption behavior in a controlled env.       │
+│                                                                 │
+│  Proposed Backup & Restore recovery strategies as defense.      │
+│                                                                 │
+│  OUTCOME: Full attack-defense cycle documented & understood.    │
+│                                                                 │
+├─────────────────────────────────────────────────────────────────┤
+│  Stack: VMware · Kali Linux · Python · AES · RSA · Snort        │
+│  Tags:  #malware-analysis #ransomware #lab #blue-team           │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+</a>
+
+<br/>
+
+<!-- PROJECT 2 -->
+<a href="https://github.com/BacSiCode/BMCSDL_ChatNoiBo">
+<table width="90%">
+<tr>
+<td>
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  💬  SECURE INTERNAL CHAT SYSTEM                  [TEAM LEAD]   │
+│      09/2025 – 12/2025                                          │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  Built internal enterprise chat app (C# WinForms) with          │
+│  Oracle Database for department-level access control.           │
+│                                                                 │
+│  Implemented AES-256 end-to-end encryption for all             │
+│  messages and user credentials in transit and at rest.          │
+│                                                                 │
+│  OUTCOME: Stable system, data isolated per department.          │
+│                                                                 │
+├─────────────────────────────────────────────────────────────────┤
+│  Stack: C# · WinForms · Oracle DB · AES-256 · .NET             │
+│  Tags:  #cryptography #secure-messaging #enterprise             │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+</a>
+
+</div>
+
+---
+
 ## `> github_stats --live`
 
 <div align="center">
@@ -142,7 +217,6 @@ location : Tân Bình, Hồ Chí Minh, Việt Nam
 
 </div>
 
-
 ---
 
 ## `> achievements --highlight`
@@ -154,12 +228,6 @@ location : Tân Bình, Hồ Chí Minh, Việt Nam
 | 🏆 | **Finalist** — "Database Design Challenge" Academic Competition |
 | 🎓 | Google Cybersecurity Professional Certificate |
 | 📋 | English B2 (CEFR) Certified |
-| 🔬 | Led 2 security-focused lab projects as Team Lead |
-
-</div>
-
----
-
 </div>
 
 ---
@@ -171,7 +239,7 @@ location : Tân Bình, Hồ Chí Minh, Việt Nam
 <br/>
 
 **Open to internship opportunities in:**
-`SOC Analysis`  · `Security Monitoring` · `Malware Analysis`
+`SOC Analysis` · `Security Monitoring` · `Malware Analysis`
 
 <br/>
 
@@ -194,15 +262,7 @@ location : Tân Bình, Hồ Chí Minh, Việt Nam
 <!-- CONTRIBUTION SNAKE -->
 <div align="center">
 
-### `> activity_map`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BacSiCode/BacSiCode/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BacSiCode/BacSiCode/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BacSiCode/BacSiCode/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
 
 ---
 
