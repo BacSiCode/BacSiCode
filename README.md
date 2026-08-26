@@ -4,7 +4,7 @@
 
 Final-year Information Security student at HUIT, focused on SOC operations, network security, and malware analysis. Learning through hands-on labs, isolated malware research, and security-oriented projects, with the goal of starting a SOC or Blue Team internship.
 
-[GitHub](https://github.com/BacSiCode) · [Email](mailto:youremail@example.com) · [LinkedIn](https://linkedin.com/in/your-linkedin)
+[GitHub](https://github.com/BacSiCode) · [Email](mailto:lenguyenhongphuc999@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lê-phúc-922501314)
 
 ---
 
