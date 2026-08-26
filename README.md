@@ -2,7 +2,7 @@
 
 **Information Security Student · SOC / Blue Team**
 
-Final-year Information Security student at HUIT, focused on SOC operations, network security, and malware analysis. Learning through hands-on labs, isolated malware research, and security-oriented projects, with the goal of starting a SOC or Blue Team internship.
+Final-year Information Security student at HUIT, building practical foundations in network security, threat detection, and malware analysis through hands-on labs and independent research. Working toward a SOC or Blue Team internship.
 
 [GitHub](https://github.com/BacSiCode) · [Email](mailto:lenguyenhongphuc999@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lê-phúc-922501314)
 
@@ -10,33 +10,31 @@ Final-year Information Security student at HUIT, focused on SOC operations, netw
 
 ## Focus
 
-- SOC monitoring and alert analysis
-- Network traffic analysis
-- Threat detection fundamentals
-- Malware behavior analysis
-- Linux and security lab environments
+`Security Monitoring` · `Network Defense` · `Threat Detection` · `Malware Analysis` · `Linux Security`
+
+My current goal is to gain real-world experience through a SOC or Blue Team internship.
 
 ---
 
 ## Technical Skills
 
 ### Security
-`SOC` · `Network Security` · `IDS/IPS` · `Threat Detection` · `Malware Analysis`
+`SOC Fundamentals` `Threat Detection` `IDS/IPS` `Network Security` `Malware Analysis`
 
 ### Networking
-`TCP/IP` · `OSI Model` · `VLAN` · `DMZ` · `Network Segmentation` · `Traffic Analysis`
+`TCP/IP` `OSI Model` `VLAN` `DMZ` `Network Segmentation` `Traffic Analysis`
 
-### Tools
-`Wireshark` · `Snort` · `Suricata` · `Nmap` · `Burp Suite` · `pfSense` · `Cloudflare WAF`
+### Security Tools
+`Wireshark` `Snort` `Suricata` `Nmap` `Burp Suite` `pfSense` `Cloudflare WAF`
 
 ### Programming
-`Python` · `C#` · `C/C++` · `JavaScript` · `SQL` · `Bash`
+`Python` `C#` `C/C++` `JavaScript` `SQL` `Bash`
 
 ### Systems
-`Linux` · `Kali Linux` · `Windows Server` · `VMware`
+`Linux` `Kali Linux` `Windows Server` `VMware`
 
-### Database
-`Oracle` · `SQL Server`
+### Databases
+`Oracle` `SQL Server`
 
 ---
 
@@ -44,13 +42,13 @@ Final-year Information Security student at HUIT, focused on SOC operations, netw
 
 ### 01 — IoT Malware Detection & Behavioral Analysis
 
-Building a research-oriented pipeline for detecting and classifying IoT malware using behavioral features collected from dynamic analysis.
+Research-oriented work focused on detecting and classifying IoT malware using behavioral features collected from dynamic analysis.
 
 `Python` `QEMU` `Linux` `Machine Learning` `Network Analysis`
 
 ### 02 — GandCrab Ransomware Analysis Lab
 
-An isolated research lab for studying GandCrab ransomware behavior, encryption mechanisms, infection flow, and defensive observations.
+Analysis of GandCrab ransomware in an isolated lab environment, covering the infection flow and its AES/RSA encryption mechanism, with observations aimed at defensive detection.
 
 `Kali Linux` `VMware` `Python` `AES` `RSA`
 
@@ -58,22 +56,22 @@ An isolated research lab for studying GandCrab ransomware behavior, encryption m
 
 ### 03 — Secure Internal Chat System
 
-Built an internal messaging application with department-based access control and AES-256 protection for sensitive message data.
+Internal communication system with access control and AES-256 encryption, built to protect sensitive data at rest and in transit.
 
-`C#` `.NET` `Oracle` `AES-256`
+`C#` `.NET` `WinForms` `Oracle` `AES-256`
 
 [Repository →](https://github.com/BacSiCode/BMCSDL_ChatNoiBo)
 
 ---
 
-## Security Labs
+## Security Practice
 
-- Linux-based environments for hands-on security practice
 - Network traffic analysis with Wireshark
-- IDS/IPS testing using Snort and Suricata
-- Isolated malware analysis lab (GandCrab ransomware)
-- QEMU-based sandbox for IoT malware research
-- VMware lab environments for network and system security
+- IDS/IPS experimentation with Snort and Suricata
+- Linux and Kali security labs
+- Isolated ransomware analysis
+- QEMU-based IoT malware sandbox
+- VMware-based security environments
 - Basic network segmentation and firewall/WAF configuration
 
 ---
@@ -81,20 +79,18 @@ Built an internal messaging application with department-based access control and
 ## Education
 
 **Ho Chi Minh City University of Industry and Trade (HUIT)**
-B.Sc. Information Security
-Final-year student · Current GPA: 3.27 / 4.0
+Bachelor of Information Security — Final-year student
+Current GPA: 3.28 / 4.0
 
 ---
 
 ## Certifications
 
 - Google Cybersecurity Professional Certificate — Google / Coursera
-- English B2 (CEFR)
+- English B2 — CEFR
 
 ---
 
 ## Contact
 
-[GitHub](https://github.com/BacSiCode) · [Email](mailto:youremail@example.com) · [LinkedIn](https://linkedin.com/in/your-linkedin)
-
-> Currently learning, building, and improving through hands-on security projects.
+[GitHub](https://github.com/BacSiCode) · [Email](mailto:lenguyenhongphuc999@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lê-phúc-922501314)
